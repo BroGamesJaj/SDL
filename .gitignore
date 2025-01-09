@@ -30,7 +30,7 @@ __pycache__
 
 bin-int
 bin
-
+sdl_build
 # for CMake
 .cmake
 CMakeFiles/
