@@ -28,6 +28,9 @@ __pycache__
 *.tmp
 *.rej
 
+bin-int
+bin
+
 # for CMake
 .cmake
 CMakeFiles/
